@@ -1,0 +1,6 @@
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\bin\Debug\prowork1.exe.config
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\bin\Debug\prowork1.exe
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\bin\Debug\prowork1.pdb
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\obj\Debug\prowork1.csprojResolveAssemblyReference.cache
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\obj\Debug\prowork1.exe
+c:\users\its_deedat\documents\visual studio 2012\Projects\prowork1\prowork1\obj\Debug\prowork1.pdb
